@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Visual Novel OST Player</string>
+    <string name="short_app_name">VN OST Player</string>
+    <string name="about">About</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="song_one">Soundtrack No.1</string>
+    <string name="song_two">Soundtrack No.2</string>
+    <string name="song_three">Soundtrack No.3</string>
+    <string name="song_four">Soundtrack No.4</string>
+    <string name="song_five">Soundtrack No.5</string>
+    <string name="song_six">Soundtrack No.6</string>
+    <string name="song_seven">Soundtrack No.7</string>
+    <string name="song_eight">Soundtrack No.8</string>
+    <string name="song_nine">Soundtrack No.9</string>
+    <string name="song_ten">Soundtrack No.10</string>
+    <string name="song_eleven">Soundtrack No.11</string>
+    <string name="song_twelve">Soundtrack No.12</string>
+    <string name="song_thirteen">Soundtrack No.13</string>
+    <string name="song_fourteen">Soundtrack No.14</string>
+    <string name="song_fifteen">Soundtrack No.15</string>
+    <string name="composer_name">Composer Name</string>
+    <string name="repeat_current">Repeat current song</string>
+    <string name="repeat_all">Repeat all songs</string>
+    <string name="repeat_off">Repeat off</string>
+    <string name="shuffle_on">Shuffle on</string>
+    <string name="shuffle_off">Shuffle off</string>
+    <string name="description">Visual Novel OST Player is an app dedicated to the entire playlist of soundtracks used in a specific Visual Novel.</string>
+</resources>
